@@ -22,3 +22,5 @@ elif productQty > 20 and productQty < 40 and totalPrice > 72000 and totalPrice <
     print("Descuento de 20.5%")
 elif productQty > 20 and productQty < 40 and totalPrice > 96000:
     print("Descuento de 25.67%")
+else:
+    print("Lo sentimos, usted no aplica para un descuento.")
