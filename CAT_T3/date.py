@@ -7,6 +7,8 @@ print("4.- Ver fecha y hora actual")
 
 # Obtiene la fecha actual
 currentDate = date.today()
+
+# Obtiene la fecha y hora actual
 current = datetime.now()
 
 loop = True
